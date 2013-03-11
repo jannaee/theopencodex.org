@@ -1,0 +1,281 @@
+     .whitespace {
+      height:40px;
+      width: 100%;
+
+     }
+
+      body {
+        padding-top: 20px;
+        padding-bottom: 60px;
+      }
+
+      /* Custom container */
+      .container {
+        margin: 0 auto;
+        max-width: 1000px;
+      }
+      .container > hr {
+        margin: 60px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 80px 0;
+        text-align: center;
+      }
+      .jumbotron h1 {
+        font-size: 100px;
+        line-height: 1;
+      }
+      .jumbotron .lead {
+        font-size: 24px;
+        line-height: 1.25;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* Supporting marketing content */
+      .marketing {
+        margin: 60px 0;
+      }
+      .marketing p + h4 {
+        margin-top: 28px;
+      }
+
+
+      /* Customize the navbar links to be fill the entire space of the .navbar */
+      .navbar .navbar-inner {
+        padding: 0;
+      }
+      .navbar .nav {
+        margin: 0;
+        display: table;
+        width: 100%;
+      }
+      .navbar .nav li {
+        display: table-cell;
+        width: 1%;
+        float: none;
+      }
+      .navbar .nav li a {
+        font-weight: bold;
+        text-align: center;
+        border-left: 1px solid rgba(255,255,255,.75);
+        border-right: 1px solid rgba(0,0,0,.1);
+      }
+      .navbar .nav li:first-child a {
+        border-left: 0;
+        border-radius: 3px 0 0 3px;
+      }
+      .navbar .nav li:last-child a {
+        border-right: 0;
+        border-radius: 0 3px 3px 0;
+      }
+      .projectItem { 
+        width:100%;
+        height:320px;
+
+        margin-bottom: 10px;
+
+      }
+      .project {
+          width: 100%;
+          height: 100%;
+          
+          margin-bottom: 12px;
+  
+          padding: 0px;
+          position: relative;
+          cursor: pointer;
+
+            -webkit-border-radius:4px;
+            -moz-border-radius:4px;
+            border-radius:4px;
+
+           -webkit-box-shadow: 0px 0px 7px #555;
+           -moz-box-shadow: 0px 0px 7px #555;
+           box-shadow: 0px 0px 7px #555;
+
+
+      }
+      .project:hover{
+          position:relative;
+  
+          -moz-transform: scale(1.01);
+          -webkit-transform: scale(1.01);
+          -o-transform: scale(1.01);
+            transform: scale(1.01);
+          -ms-transform: scale(1.01);
+
+
+           -webkit-box-shadow: 0px 0px 15px #555;
+           -moz-box-shadow: 0px 0px 15px #555;
+           box-shadow: 0px 0px 15px #555;
+      }
+      .img {
+        width:100%;
+        height:200px;
+        line-height: 200px;
+        text-align: center;
+
+
+
+        -webkit-box-shadow: 0px 0px 7px -2px #555;
+           -moz-box-shadow: 0px 0px 7px -2px #555;
+           box-shadow: 0px 0px 7px -2px #555;
+      }
+      .img > img{
+        vertical-align: middle;
+      }
+      .desc {
+        padding:3px 7px 3px 7px;
+
+      }
+      .projectItem a{
+        color:black;
+      }
+      .projectItem a:hover{
+        text-decoration: none;
+      }
+      .mainDiv {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+
+        -webkit-box-shadow: 0px 0px 5px #555;
+        -moz-box-shadow: 0px 0px 5px #555;
+        box-shadow: 0px 0px 5px #555;
+
+      }
+      .topImgDesc {
+        background: url(../img/sidescroller.jpg) no-repeat center;
+        
+        padding-left:7px;
+        
+
+        height: 300px;
+
+        
+        text-align: center;
+      }
+      .topImgDesc > span {
+        display: inline-block;
+        vertical-align: middle;
+        line-height: normal;
+
+      }
+      .textImgDesc {
+        position: relative;
+        top: 65px;
+      }
+      .projectText{
+        color:white;
+
+
+        text-shadow: 0 0 7px black; 
+       -moz-text-shadow: 0 0 7px black;
+       -webkit-text-shadow: 0 0 7px black;
+        
+      }
+      .ptP{
+        font-size: 17px;
+        vertical-align: middle;
+      }
+      .actionImgDesc {
+        border-left:1px solid black;
+        position: relative;
+
+
+        /* Fallback for web browsers that doesn't support RGBa */
+        background: rgb(204, 204, 204) transparent;
+        /* RGBa with 0.6 opacity */
+        background: rgba(204, 204, 204, 0.6);
+        /* For IE 5.5 - 7*/
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+        /* For IE 8*/
+        -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+
+        padding-top:7px;
+        width: 100%;
+        height: 300px;
+        
+      }
+
+      .task-container {
+
+        height:270px;
+        background-color: white;
+
+        position: relative;
+
+
+        margin:10px 7px 0px 7px;
+        overflow: hidden;
+
+        -webkit-box-shadow: 0px 0px 8px 2px #555;
+        -moz-box-shadow: 0px 0px 8px 2px #555;
+        box-shadow: 0px 0px 8px 2px #555;
+
+      }
+      .tasks {
+        font-size: 20px;
+        margin-top: 5px;
+      }
+      fieldset  hr{
+        margin:7px;
+        padding:0px;
+      }
+      .taskList{
+        padding-left: 7px;
+        font-size: 17px;
+        text-align: left;
+      }
+      .taskList a{
+        text-decoration: none;
+      }
+      .forum {
+      -webkit-box-shadow: 0px 0px 5px #555;
+        -moz-box-shadow: 0px 0px 5px #555;
+        box-shadow: 0px 0px 5px #555;
+      }
+      .about{
+         -webkit-box-shadow: 0px 0px 5px #555;
+        -moz-box-shadow: 0px 0px 5px #555;
+        box-shadow: 0px 0px 5px #555;
+        padding: 7px;
+      }
+      .teamDiv{
+        width:100%;
+        height: 220px;
+
+           -webkit-box-shadow: 0px 0px 3px #555;
+           -moz-box-shadow: 0px 0px 3px #555;
+           box-shadow: 0px 0px 3px #555;        
+      }
+      .teamPortrait{
+        height:140px;
+        width:100%;
+        overflow: hidden;
+
+        margin-bottom: 5px;
+
+        -webkit-box-shadow: 0px 0px 7px -2px #555;
+           -moz-box-shadow: 0px 0px 7px -2px #555;
+           box-shadow: 0px 0px 7px -2px #555;
+        
+      }
+      .teamDiv h4{
+        margin: 0px 5px 0px 5px;
+      }
+      .teamDiv p{
+        margin: 0px 5px 0px 5px;
+        font-size: 12px;
+
+      }
+      .function {
+        font-style: italic;
+      }
+
+      
