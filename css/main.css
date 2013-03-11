@@ -236,7 +236,11 @@
         text-decoration: none;
       }
       .forum {
+        padding: 7px;
 
+      -webkit-box-shadow: 0px 0px 5px #555;
+        -moz-box-shadow: 0px 0px 5px #555;
+        box-shadow: 0px 0px 5px #555;
       }
       .about{
          -webkit-box-shadow: 0px 0px 5px #555;
