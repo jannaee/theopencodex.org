@@ -23,7 +23,7 @@
 <body>
 	<div class="container">
 		<div class="masthead">
-			<div class="navbar">
+			<div class="navbar navbar-fixed-top navbar-inverse">
 				<div class="navbar-inner">
 					<div class="container">
 						<ul class="nav">
