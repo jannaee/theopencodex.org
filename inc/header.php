@@ -23,11 +23,7 @@
 <body>
 	<div class="container">
 		<div class="masthead">
-<<<<<<< HEAD
-			<div class="navbar navbar-fixed-top navbar-inverse">
-=======
 			<div class="navbar navbar-inverse navbar-fixed-top">
->>>>>>> Made navbar inverse and fixed
 				<div class="navbar-inner">
 					<div class="container">
 						<!-- Brand name/logo -->
