@@ -48,16 +48,6 @@ body {
 .navbar .navbar-inner {
 	padding: 0;
 }
-.navbar .nav {
-	margin: 0;
-	display: table;
-	width: 100%;
-}
-.navbar .nav li {
-	display: table-cell;
-	width: 1%;
-	float: none;
-}
 .navbar .nav li a {
 	font-weight: bold;
 	text-align: center;
@@ -91,21 +81,21 @@ body {
 	-webkit-box-shadow: 0px 0px 7px #555;
 	-moz-box-shadow: 0px 0px 7px #555;
 	box-shadow: 0px 0px 7px #555;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
-	-o-transition: all 0.2s ease-in-out;
-	-ms-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition: all 0.1s ease-in-out;
+	-o-transition: all 0.1s ease-in-out;
+	-ms-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
 
 
 }
 .project:hover{
 	position:relative;
-	-moz-transform: scale(1.02);
-	-webkit-transform: scale(1.02);
-	-o-transform: scale(1.02);
-		transform: scale(1.02);
-	-ms-transform: scale(1.02);
+	-moz-transform: scale(1.01);
+	-webkit-transform: scale(1.01);
+	-o-transform: scale(1.01);
+		transform: scale(1.01);
+	-ms-transform: scale(1.01);
 	 -webkit-box-shadow: 0px 0px 15px #555;
 	 -moz-box-shadow: 0px 0px 15px #555;
 	 box-shadow: 0px 0px 15px #555;
