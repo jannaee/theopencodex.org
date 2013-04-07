@@ -2,11 +2,13 @@
 
 <!-- Jumbotron -->
 <div class="jumbotron">
-	<h1>TheOpenCodex</h1>
-	<p class="lead">
-		TheOpenCodex is an online community, which started on <a href='http://codecademy.com'>Codecademy</a>. Our mission is to create awesome software, while enabling people to learn by doing!
-	</p>
-	<a href="#joinUsModal" role="button" class="btn btn-large btn-success" data-toggle="modal">Join us!</a>
+	<div class="container">
+		<h1>TheOpenCodex</h1>
+		<p class="lead">
+			TheOpenCodex is an online community, which started on <a href='http://codecademy.com'>Codecademy</a>. Our mission is to create awesome software, while enabling people to learn by doing!
+		</p>
+		<a href="#joinUsModal" role="button" class="btn btn-large btn-success" data-toggle="modal">Join us!</a>
+	</div>
 </div>
 
 <hr>
