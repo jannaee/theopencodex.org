@@ -51,7 +51,7 @@
 					</div>
 					<div class="control-group">
 						<!-- Development -->
-						<label class="control-label">Developpement</label>
+						<label class="control-label">Development</label>
 						<div class="controls">
 							<label class="checkbox">
 								<input type="checkbox" value="HTML">
