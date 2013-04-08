@@ -7,9 +7,9 @@
 	<meta name="description" content="">
 	<meta name="author" content="https://github.com/TheOpenCodex?tab=members">
 	<!-- CSS -->
-	<link href="css/bootstrap.css" rel="stylesheet">
-	<link href="css/bootstrap-responsive.css" rel="stylesheet">
-	<link href="css/main.css" rel="stylesheet">
+	<link href="/css/bootstrap.css" rel="stylesheet">
+	<link href="/css/bootstrap-responsive.css" rel="stylesheet">
+	<link href="/css/main.css" rel="stylesheet">
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="../assets/js/html5shiv.js"></script>
