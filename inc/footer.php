@@ -114,7 +114,7 @@
 	<hr>
 
 	<footer class="footer">
-		<p>&copy; TheOpenCodex 2013</p>
+		<p>&copy; TheOpenCodex <?php echo date('Y'); ?></p>
 		
 		<!-- Scripts -->
 		<!-- jQuery -->
