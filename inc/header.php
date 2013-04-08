@@ -31,15 +31,15 @@
 
 						<!-- Navigation Items -->
 						<ul class="nav">
-							<li><a href="index.php">Home</a></li>
+							<li><a href="/index.php">Home</a></li>
 							<li class="divider-vertical"></li>
-							<li><a href="projects/">Projects</a></li>
+							<li><a href="/projects/">Projects</a></li>
 							<li class="divider-vertical"></li>
-							<li><a href="downloads/">Downloads</a></li>
+							<li><a href="/downloads/">Downloads</a></li>
 							<li class="divider-vertical"></li>
-							<li><a href="links/">Links</a></li>
+							<li><a href="/links/">Links</a></li>
 							<li class="divider-vertical"></li>
-							<li><a href="about/">About</a></li>
+							<li><a href="/about/">About</a></li>
 						</ul>
 					</div>
 				</div>
