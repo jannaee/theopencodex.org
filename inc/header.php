@@ -5,7 +5,7 @@
 	<title><?php if ($pageTitle) echo $pageTitle . ' |'; ?> TheOpenCodex</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="author" content="https://github.com/TheOpenCodex?tab=members">
 	<!-- CSS -->
 	<link href="/css/bootstrap.css" rel="stylesheet">
 	<link href="/css/bootstrap-responsive.css" rel="stylesheet">
