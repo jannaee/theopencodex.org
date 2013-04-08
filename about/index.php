@@ -39,14 +39,6 @@
 					<p>Co-Creator</p>
 					<p class="function">function</p>
 				</div>
-				<div class='span3 teamDiv'>
-					<div class='teamPortrait'>
-						<img src='../img/silhouette.jpg'>
-					</div>
-					<h4>Sam Stites</h4>
-					<p>Co-Creator</p>
-					<p class="function">function</p>
-				</div>
 			</div>
 			
 		</div>
